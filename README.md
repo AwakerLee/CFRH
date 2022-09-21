@@ -1,4 +1,4 @@
-# CFRH
+# Title
 CLIP-based Fusion-modal Reconstructing Hashing for Unsupervised Large-scale Cross-modal Retrieval
 
 More details will be updated soon.
@@ -13,7 +13,7 @@ Please, install the following packages:
 - CLIP
 ### Citation
 ```
-@inproceedings{JDSH,
+@inproceedings{JDSH,Title
     author={Liu, Song and Qian, Shengsheng and Guan, Yang and Zhan, Jiawei and Ying, Long},
     title={Joint-modal Distribution-based Similarity Hashing for Large-scale Unsupervised Deep Cross-modal Retrieval},
     booktitle = {SIGIR},
